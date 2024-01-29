@@ -1,0 +1,54 @@
+/* style.css File */
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.Logo {
+    width: 200px;
+    height: 200px;
+    padding: 1%;
+    text-align: center;
+}
+
+.PicOfMe {
+    height: 400px;
+    width: 400px; 
+    border-radius: 10%;
+    border: 5px solid #d9d9d9;
+}
+
+
+nav {
+    width: 73%;
+    padding: 1%;
+    background-color: #d9d9d9;
+}
+
+.headerlist {
+    width: 50%;
+    margin-left: auto;
+}
+
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+.content {
+    width: 1200px;
+    margin: 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: #373738;
+    padding: 1%;
+}
+
+.footerlist {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0%;
+}
